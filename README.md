@@ -1,2 +1,1 @@
-# AnimatedMenu
-AnimatedMenu
+# Animated Menu WPF Application
